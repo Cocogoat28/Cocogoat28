@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Vansh  
 
 🎓 B.Tech CSE student at **Graphic Era Deemed to be University** (2022–present) with a CGPA of **8.3**.  
-💻 Passionate about **Web Development, AI,Digital Marketing and Computer Vision**.  
-🚀 Currently exploring **Dynamic Websites, Secure Offline Systems,**.  
+💻 Passionate about **Web Development, AI, Digital Marketing, and Computer Vision**.  
+🚀 Exploring **Dynamic Websites, Secure Offline Systems, and Compiler Design**.  
 
 ---
 
 ## 🔭 Current Work
-- **Research Intern – IIT Mandi (June 2025–August 2025)**  
+- **Research Intern – IIT Mandi (June–Aug 2025)**  
   - Worked on **3D object localization models** leveraging point cloud data.  
   - Experimented with **ScanRefer** and **Locate3D** for RGB-D scene understanding.  
   - Goal: enhance perception for **bipedal robots**.  
@@ -21,7 +21,7 @@
 
 ## 💡 Projects
 - **[MiniLang – Toy Programming Language Interpreter](#)** (2025)  
-  Designed and implemented a beginner-friendly programming language with a recursive descent parser.  
+  Beginner-friendly programming language with a recursive descent parser.  
   *Tech: Python*  
 
 - **Face Detection with OpenCV** (2023)  
@@ -57,7 +57,7 @@
 ---
 
 ## 🌍 Languages
-- English | Hindi 
+- English | Hindi  
 
 ---
 
@@ -65,8 +65,6 @@
 <div align="center">
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cocogoat28&show_icons=true&theme=radical&hide_border=true&count_private=true)  
-
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Cocogoat28&theme=radical&hide_border=true)  
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cocogoat28&layout=compact&theme=radical&hide_border=true)  
 
@@ -76,4 +74,16 @@
 
 ## 📫 Connect
 - 📧 **gvansh282@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vansh-gupta-a70b14250/)  
+
+---
+
+## ✨ Fun Add-ons
+- ⏳ *Profile Views Counter*  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Cocogoat28&color=blue&style=flat-square)  
+
+- 🏆 *GitHub Trophies*  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cocogoat28&theme=radical&no-frame=true&margin-w=10)  
+
+- 📈 *Contribution Graph*  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cocogoat28&theme=radical)  
